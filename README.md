@@ -25,17 +25,13 @@ Analyze Amazon product data to uncover trends in pricing, discounts, ratings, an
 
 
 ## 3. Key Excel Techniques Applied 
--| Task                    | Method Used                              | Formula/Tool |
-
--| Unique Product Count    | PivotTable                               | `Distinct Count` |
-
--| Average Discount        | PivotTable                               | `=AVERAGE()`     |
-
--| Rating Distribution     | Histogram (Data Analysis Toolpak)        | `=FREQUENCY()`   |
-
--| Potential Revenue       | Calculated Field in PivotTable           | `=actual_price * rating_count` |
-
--| Price Buckets           | Conditional Grouping                     | `=IF(A2<200, "<₹200", IF(A2<=500, "₹200-500", ">₹500"))` |
+| Task                    | Method Used                              | Formula/Tool |
+|---------------------|--------------------------------------|------------------|
+| Unique Product Count    | PivotTable                               | `Distinct Count` |
+| Average Discount        | PivotTable                               | `=AVERAGE()`     |
+| Rating Distribution     | Histogram (Data Analysis Toolpak)        | `=FREQUENCY()`   |
+| Potential Revenue       | Calculated Field in PivotTable           | `=actual_price * rating_count` |
+| Price Buckets           | Conditional Grouping                     | `=IF(A2<200, "<₹200", IF(A2<=500, "₹200-500", ">₹500"))` |
 
 
 ## 4. Insights & Visualizations  
