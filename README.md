@@ -85,3 +85,5 @@ For Pricing Strategy:
 
 ![IMG-20250704-WA0007](https://github.com/user-attachments/assets/41759e85-75ae-4e38-9129-75f2610d4339)
 
+
+##Thank you for reading 
