@@ -82,9 +82,8 @@ For Pricing Strategy:
 - Data Visualization   
 - Business Insights Generation 
 
+## Below are the images containing the Pivot table and Dashboard 
 ![IMG-20250704-WA0005](https://github.com/user-attachments/assets/9a721b0e-3bce-4dc6-8d7e-eec5428c0937)
 ![IMG-20250704-WA0006](https://github.com/user-attachments/assets/6bb16c38-1c1f-4a9c-9aaa-f8d66979baf6)
 ![IMG-20250704-WA0007](https://github.com/user-attachments/assets/41759e85-75ae-4e38-9129-75f2610d4339)
 
-
-Above are the images containing the Pivot table and Dashboard 
