@@ -53,3 +53,31 @@ Analyze Amazon product data to uncover trends in pricing, discounts, ratings, an
    - Finding: No strong correlation—high discounts didn’t always mean low ratings.  
 3. Pie Chart: Price Bucket Distribution  
    - Finding: 61% of products were under ₹500. 
+
+
+## 5. Recommendations 
+For Marketing Teams:  
+- Leverage high discounts in Cables & Accessories to drive sales.  
+- Highlight top-rated Electronics in promotions (avg. rating 4.3/5).  
+
+For Pricing Strategy:  
+- Test moderate discounts (30-40%) for high-revenue categories (e.g., Electronics).
+
+
+  ## 6. Appendix  
+### Sample Data Structure 
+| Column             | Description                          | Example          |
+|---------------------|--------------------------------------|------------------|
+| `product_id`        | Unique product identifier            | B07JW9H4J1       |
+| `category`          | Product category (e.g., Cables)      | Cables           |
+| `discounted_price`  | Sale price (₹)                       | 399              |
+| `actual_price`      | Original price (₹)                   | 1099             |
+| `rating`            | Customer rating (1-5)                | 4.2              |
+| `rating_count`      | Number of reviews                    | 24,269           |
+
+
+### Skills Demonstrated 
+- Data Cleaning  
+- PivotTables & Advanced Formulas  
+- Data Visualization   
+- Business Insights Generation 
